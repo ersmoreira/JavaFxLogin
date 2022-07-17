@@ -1,0 +1,42 @@
+
+### Folders ###
+.idea/
+.idea_modules/
+out/
+target/
+.mvn/
+
+### File-based project format ###
+*.iws
+
+### Java ###
+# Compiled class file
+*.class
+
+### Log file ###
+*.log
+
+### Package Files ###
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Maven ###
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+mvnw
+mvnw.cmd
+
+### Eclipse ###
+.project
+.classpath
+
